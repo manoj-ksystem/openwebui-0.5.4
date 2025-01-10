@@ -18,6 +18,7 @@ from open_webui.socket.main import (
     get_event_call,
     get_event_emitter,
 )
+#HELO UPDATED CHAT
 from open_webui.functions import generate_function_chat_completion
 
 from open_webui.routers.openai import (
